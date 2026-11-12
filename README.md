@@ -4,14 +4,6 @@
 
 A shared event album app that brings everyone's memories together. Create an event, invite people with a code or QR, and collect photos in one place while everyone enjoys the moment.
 
-<p align="center">
-  <img src="media/home.png" alt="Capture Party home screen" width="270" />
-  <img src="media/create-event.png" alt="Create a shared event album" width="270" />
-  <img src="media/join-event.png" alt="Join an event with a code or QR" width="270" />
-</p>
-
-*Screenshots from development builds, shown for product preview.*
-
 ## The experience
 
 - **One event, one shared album.** Bring photos from different participants together.
@@ -26,10 +18,10 @@ Automatic background uploads depend on the device's operating system, permission
 
 Built with **Flutter and Dart**. Developed by **[Eralp Yayalık](https://github.com/Eralpyayalik)**.
 
-Capture Party is under development. This is a public product showcase; application source code, backend configuration, credentials, and installable builds are not distributed here.
+Capture Party is under development. Current interface screenshots will be added after verification. This is a public product showcase; application source code, backend configuration, credentials, and installable builds are not distributed here.
 
 ## Türkçe
 
 Capture Party, aynı etkinlikte çekilen fotoğrafları ortak bir albümde buluşturan bir mobil uygulamadır. Bir etkinlik oluşturun, kod veya QR ile katılın ve paylaşım tercihinize göre anılarınızı biriktirin.
 
-Bu depo yalnızca uygulamanın tanıtımını ve seçilmiş ekran görüntülerini içerir. Kaynak kodu ve APK paylaşılmaz.
+Bu depo yalnızca uygulamanın tanıtımını içerir. Güncel arayüz görselleri doğrulandıktan sonra eklenecektir. Kaynak kodu ve APK paylaşılmaz.
